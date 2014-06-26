@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>is-bmp</artifactId>
-    <version>0.1.1</version>
+    <version>0.1.2-SNAPSHOT</version>
     <name>is-bmp</name>
     <description>WebJar for is-bmp</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>https://github.com/webjars/is-bmp</url>
         <connection>scm:git:https://github.com/webjars/is-bmp.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/is-bmp.git</developerConnection>
-        <tag>is-bmp-0.1.1</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <developers>
